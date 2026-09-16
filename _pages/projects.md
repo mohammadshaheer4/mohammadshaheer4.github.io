@@ -3,8 +3,10 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
-nav_order: 3
+# To restore this page, remove published: false and uncomment nav and nav_order.
+published: false
+# nav: true
+# nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---

@@ -25,4 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! Welcome to my tiny little corner on the internet
+Hey! Welcome to my tiny little corner on the internet.
+
+## Connect
+
+- [GitHub](https://github.com/mohammadshaheer4)
+- [Google Scholar](https://scholar.google.com/citations?user=OhYJR2QAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-shaheer-aa622b194/)
+- Phone: [+1 412 287 1845](tel:+14122871845)
+- WhatsApp: [+974 5050 7802](https://wa.me/97450507802)
+- Email: [mshaheer@alumni.cmu.edu](mailto:mshaheer@alumni.cmu.edu)
