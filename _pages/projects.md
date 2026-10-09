@@ -2,12 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-# To restore this page, remove published: false and uncomment nav and nav_order.
-published: false
-# nav: true
-# nav_order: 3
-display_categories: [work, fun]
+description: Robotics, planning, and decision-making projects.
+nav: true
+nav_order: 3
+display_categories: [robotics]
 horizontal: false
 ---
 
